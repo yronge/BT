@@ -1,0 +1,4 @@
+EC2 Instance
+S3 Bucket
+Security Group
+Internet Gateway
